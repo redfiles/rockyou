@@ -1,2 +1,0 @@
-# rockyou
-Download rockyou wordlists. 
